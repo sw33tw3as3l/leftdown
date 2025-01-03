@@ -322,6 +322,8 @@ nav:
             - SnappCTF:             # 22 Feb. 2024
                 - pwn/writeups/2024/SnappCTF/Snappshell.md
                 - pwn/writeups/2024/SnappCTF/Snapp_admin.md
+        - picoctf:
+            - pwn/writeups/picoctf/VNE.md
 
 
     #- بلاکچین:
